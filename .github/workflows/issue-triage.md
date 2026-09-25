@@ -143,7 +143,7 @@ Suggest one focused next step when the evidence supports it.
 
 Define a concise maintainer-facing report containing:
 
-- a 1–2 sentence summary
+- a 1–2 sentence summary please
 - type and priority with brief evidence
 - a suggested-team label and simulated inline-code team tag
 - approval status set to "Pending maintainer review"
